@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Shaune 👋
 
-<!--
-**s-lim-codes/s-lim-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Fresh GitHub profile dedicated to documenting everything related to investments & trading
 
-Here are some ideas to get you started:
+📝 Currently learning more about quantitative trading strategies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 On a journey from 6 → 8
+
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,postgres,figma,notion&theme=light)](https://skillicons.dev)
+
